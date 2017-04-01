@@ -1,1 +1,5 @@
 1.2	Release by LGG for 1.2 and beyond
+
+1.2.1
+	Renamed to Bargain Rocket Parts Recycled
+	Adjusted parachute values
