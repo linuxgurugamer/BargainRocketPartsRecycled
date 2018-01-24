@@ -1,3 +1,14 @@
+1.2.2
+	Thanks to github user @Shaggygoblin
+		Updated tech required for batterybanklarge
+		converted a number of files to DDS
+		Added following parts:
+			ENG-25.3c Dry Fire Extinguisher
+			BBQ-3.7 Deluxe
+			GR-35.5 LF+OX Tank
+			GR-31.0.3 Xenon Tank
+
+
 1.2	Release by LGG for 1.2 and beyond
 
 1.2.1
