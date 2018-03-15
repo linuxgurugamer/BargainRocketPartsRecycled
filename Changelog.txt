@@ -1,3 +1,6 @@
+1.2.2.1
+	Updated version info for 1.4.1
+
 1.2.2
 	Thanks to github user @Shaggygoblin
 		Updated tech required for batterybanklarge
