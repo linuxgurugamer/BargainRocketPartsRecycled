@@ -40,7 +40,7 @@ namespace ToolbarControl_NS
     [KSPAddon(KSPAddon.Startup.MainMenu, true)]
     internal class InstallChecker : MonoBehaviour
     {
-        internal const string MODNAME = "Bargain Rockets";
+        internal const string MODNAME = "Bargain Rockets Recycled";
         internal const string FOLDERNAME = "BargainRockets";
         internal const string EXPECTEDPATH = FOLDERNAME + "/Plugins";
 
