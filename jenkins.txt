@@ -27,6 +27,9 @@
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
 1:BargainRockets, BargainRockets.version
 
+# 2:PROJNAME, PROJFILE, VERSIONFILE, PLUGINSFOLDER
+2:BargainRockets,BargainRockets/BargainRockets.csproj,BargainRockets.version,GameData/BargainRockets/Plugins
+
 # 3:SOURCEFILE, DESTDIR
 3:BargainRockets.version,GameData/BargainRockets
 
