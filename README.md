@@ -12,6 +12,26 @@ Repackaged by Linuxgurugamer for a more formal release and inclusion into CKAN
 
 =====================================================================
 
+
+This wonderful little (not so little) mod was originally written by @Rubber Ducky back in 2013.  It's been updated for 1.2 thanks to the efforts of @Astrofox and @MeCripp, I've adopted it to keep it going and get included into CKAN.
+
+Original thread is here: http://forum.kerbalspaceprogram.com/index.php?/topic/53486-024-bargain-rocket-parts-v11-bust-out-the-duct-tape-were-going-to-space/&
+
+
+http://i.imgur.com/XUvIbYl.png
+
+Please note that this mod will modify the stock tech tree, and is probably incompatible with any of the custom tech trees available.
+
+https://youtu.be/V4XdBFY17ks
+
+http://i.imgur.com/0kLIts3.png
+
+http://i.imgur.com/XEBUmUG.png
+
+https://youtu.be/2S4eEbTEnFY
+
+
+
 After serious budget cuts at the Kerbal Space Agency, they turn to the one contractor they can still afford: Bargain Rocket Parts Inc.
 
 Features:
